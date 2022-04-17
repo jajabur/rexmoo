@@ -1,0 +1,8 @@
+{
+  "name": "rexmoo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "f5a87b99"
+}
